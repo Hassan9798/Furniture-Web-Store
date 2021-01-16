@@ -1,0 +1,11 @@
+@import "./variables";
+body {
+  font-family: "Lato", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: $dark;
+}
+img {
+  padding-left: 50px;
+  height: 50%;
+  width: 50%;
+}

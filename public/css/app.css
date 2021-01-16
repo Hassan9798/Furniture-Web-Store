@@ -1,0 +1,11 @@
+body {
+  font-family: "Lato", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: #232323;
+}
+
+img {
+  margin-left: 0;
+  height: 10%;
+  width: 10%;
+}
